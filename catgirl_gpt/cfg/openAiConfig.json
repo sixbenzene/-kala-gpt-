@@ -1,0 +1,16 @@
+{
+  "secretKey": "这里填写你获得的api",
+  "temperature": 0.7,
+  "isloadRPG": "False",
+  "preinstall": "./cfg/neko.json",
+  "AmnesiacMode": "True",
+  "memoryTime": 120,
+  "proxy": "http://localhost:7890",
+  "model": "gpt-3.5-turbo",
+  "apiUrl": "https://api.openai.com/v1/chat/completions",
+  "webEmail": "",
+  "webModel": "gpt-3.5-turbo",
+  "webProxy":"",
+  "webAccessToken": ""
+
+}

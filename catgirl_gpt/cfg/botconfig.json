@@ -1,0 +1,22 @@
+{
+  "mirai": {
+    "qq": 这里填写qq号,
+    "verifyKey": "",
+    "http": "http://localhost:8566",
+    "ws": "ws://localhost:8566"
+  },
+  "responseTimeout": 30.0,
+  "responseQuoteTextFlag": "False",
+  "responseText": {
+    "timeout": "\u53cd\u5e94\u6162\uff0c\u7a0d\u7b49",
+    "nullText": "\u4f60\u5565\u4e5f\u6ca1\u8bf4",
+    "tooFast": "\u8bf7\u7b49\u4f1a\u518d\u53d1"
+  },
+  "mention": "at",
+  "prefix": [
+    ""
+  ],
+  "acceptFriendRequest": "True",
+  "acceptGroupRequest": "False",
+  "defaultThinking": "A"
+}
