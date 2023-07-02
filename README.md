@@ -3,7 +3,7 @@
 但是作者用的是Mirai对接qq的方式，此方式有很大的弊端，就是不常用的qq号经常被风控，这对于我们小号开设qq机器人非常的不友好\
 所以我把Mirai对接qq的方式改成了利用onebot对接qq\
 以下是原作者的项目\
-https://github.com/lissettecarlr/kuon \
+https://github.com/lissettecarlr/kuon
 # 食用方法
 catgirl_gpt文件夹里的cfg文件夹是配置设置\
 botconfig.json里面填写qq号，=并注意反向ws连接的端口地址\
