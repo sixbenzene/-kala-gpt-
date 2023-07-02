@@ -9,4 +9,6 @@ catgirl_gpt文件夹里的cfg文件夹是配置设置\
 botconfig.json里面填写qq号，=并注意反向ws连接的端口地址\
 openAiConfig.json里面填写gpt的api端口，原作者有操作\
 此外，运行时需要很多库，自行添加\
-还需要一个onebot，前往https://onebot.dev/获取，安装完成欧开启本项目，在onebot上登陆好qq，即可以使用
+还需要一个onebot，前往 \
+https://onebot.dev/ \
+获取，安装完成欧开启本项目，在onebot上登陆好qq，即可以使用
